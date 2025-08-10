@@ -1,0 +1,14 @@
+.venv*
+__pycache__/
+*.py[cod]
+*.egg-info/
+.env
+*.local
+data/index.jsonl
+data/index.parquet
+data/index.faiss
+data/index_meta.jsonl
+data/financebench/pdfs/
+data/docs/
+*.log
+.DS_Store
